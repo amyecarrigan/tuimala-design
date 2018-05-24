@@ -29,24 +29,24 @@
 
 // Font.
 	$font: (
-		family:				('Open Sans Light', Helvetica, sans-serif),
+		family:				('Montserrat', Helvetica, sans-serif),
 		family-heading:	('Yellowtail', cursive),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
-		weight-bold:		700,
-		weight-bold-alt:	700,
+		weight-bold:		600,
+		weight-bold-alt:	600,
 		letter-spacing:		0.35em,
 		letter-spacing-alt:	-0.035em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#f9fbf2,
+		bg:					#F7F7F7,
 		bg-accent:			#363537,
-		bg-alt:				#ffffff,
-		fg:					#777775,
-		fg-accent:			#f9fbf2,
-		border:				#b8b9b4,
-		border-bg:			rgba(184, 185, 180, 0.75),
+		bg-alt:				#F7F7F7,
+		fg:					#767677,
+		fg-accent:			#F7F7F7,
+		border:				#B7B6B7,
+		border-bg:			rgba(54, 53, 55, 0.7),
 		accent1:			#d12368,
 	);
