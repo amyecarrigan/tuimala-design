@@ -1,13 +1,14 @@
 # Header
 menu:
   Home: /
-  About: /about
+  About: /About
+  Daily Patterns: /tags/patternaday
   Instagram: https://www.instagram.com/amy_e_carrigan/
   Redbubble: https://www.redbubble.com/people/amybeth
   Society6: https://society6.com/amybethcarrigan
 
 # Logo Image Source
-logo_src: /images/logo.svg
+logo_src: /images/logo.png
 
 # Theme Main Subtitle
 subtitle_main: Bloomin' good pattern design.
@@ -28,7 +29,7 @@ default_cover_index: "http://placehold.it/450x450"
 default_cover_detail:
 
 # Show Dates for posts and pages
-show_dates:
+show_dates: 
 
 # Comments. Choose one by filling up the information
 comments:
